@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4F7FB">
+
+    <LinearLayout
+        android:id="@+id/appointmentsContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Записи до лікаря"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="#1E5AA8"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Оберіть лікаря, дату та доступний час прийому"
+            android:textSize="15sp"
+            android:textColor="#6B7280"
+            android:layout_marginBottom="22dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Новий запис"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#374151"
+            android:layout_marginBottom="12dp" />
+
+        <Spinner
+            android:id="@+id/doctorSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:background="#FFFFFF"
+            android:layout_marginBottom="12dp" />
+
+        <EditText
+            android:id="@+id/dateInput"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:hint="Оберіть дату"
+            android:padding="14dp"
+            android:background="#FFFFFF"
+            android:focusable="false"
+            android:clickable="true"
+            android:layout_marginBottom="12dp" />
+
+        <Spinner
+            android:id="@+id/timeSlotSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:background="#FFFFFF"
+            android:layout_marginBottom="12dp" />
+
+        <Button
+            android:id="@+id/bookButton"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:text="Записатися"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#1E5AA8"
+            android:layout_marginBottom="24dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Мої майбутні записи"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#374151"
+            android:layout_marginBottom="12dp" />
+
+        <TextView
+            android:id="@+id/emptyAppointmentsText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="16sp"
+            android:textColor="#6B7280"
+            android:layout_marginBottom="20dp" />
+
+        <Button
+            android:id="@+id/backButton"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:text="Назад"
+            android:textColor="#1E5AA8"
+            android:backgroundTint="#E5EEF9"
+            android:layout_marginTop="10dp" />
+
+    </LinearLayout>
+
+</ScrollView>

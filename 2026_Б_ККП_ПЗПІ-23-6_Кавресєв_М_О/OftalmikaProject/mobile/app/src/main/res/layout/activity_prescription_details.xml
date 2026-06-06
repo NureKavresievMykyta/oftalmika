@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4F7FB">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Рецепт пацієнта"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="#1E5AA8"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:id="@+id/statusText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Завантаження рецепта"
+            android:textSize="15sp"
+            android:textColor="#6B7280"
+            android:layout_marginBottom="22dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp"
+            android:background="#FFFFFF"
+            android:layout_marginBottom="18dp">
+
+            <TextView
+                android:id="@+id/typeText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Рецепт"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="#1E5AA8"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:id="@+id/updatedAtText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Оновлено: не вказано"
+                android:textSize="14sp"
+                android:textColor="#6B7280"
+                android:layout_marginBottom="18dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Праве око OD"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#374151"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:id="@+id/sphOdText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SPH: не вказано"
+                android:textSize="16sp"
+                android:textColor="#374151"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/cylOdText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CYL: не вказано"
+                android:textSize="16sp"
+                android:textColor="#374151"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/axisOdText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="AXIS: не вказано"
+                android:textSize="16sp"
+                android:textColor="#374151"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ліве око OS"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#374151"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:id="@+id/sphOsText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SPH: не вказано"
+                android:textSize="16sp"
+                android:textColor="#374151"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/cylOsText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CYL: не вказано"
+                android:textSize="16sp"
+                android:textColor="#374151"
+                android:layout_marginBottom="4dp" />
+
+            <TextView
+                android:id="@+id/axisOsText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="AXIS: не вказано"
+                android:textSize="16sp"
+                android:textColor="#374151"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Додатково"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#374151"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:id="@+id/pdText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="PD: не вказано"
+                android:textSize="16sp"
+                android:textColor="#374151" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/backButton"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:text="Назад"
+            android:textColor="#1E5AA8"
+            android:backgroundTint="#E5EEF9"
+            android:layout_marginTop="10dp" />
+
+    </LinearLayout>
+
+</ScrollView>

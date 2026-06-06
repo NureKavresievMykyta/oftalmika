@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4F7FB">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:id="@+id/welcomeText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Вітаємо!"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textColor="#1E5AA8"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="6dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ваш особистий кабінет пацієнта Oftalmika"
+            android:textSize="16sp"
+            android:textColor="#6B7280"
+            android:layout_marginBottom="28dp" />
+
+        <Button
+            android:id="@+id/historyButton"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="Історія обстежень"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#1E5AA8"
+            android:layout_marginBottom="14dp" />
+
+        <Button
+            android:id="@+id/prescriptionsButton"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="Мої рецепти"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#1E5AA8"
+            android:layout_marginBottom="14dp" />
+
+        <Button
+            android:id="@+id/appointmentsButton"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="Записи до лікаря"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#1E5AA8"
+            android:layout_marginBottom="14dp" />
+
+        <Button
+            android:id="@+id/profileButton"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="Профіль пацієнта"
+            android:textColor="#1E5AA8"
+            android:backgroundTint="#E5EEF9"
+            android:layout_marginBottom="14dp" />
+
+        <Button
+            android:id="@+id/logoutButton"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="Вийти"
+            android:textColor="#374151"
+            android:backgroundTint="#D1D5DB" />
+
+    </LinearLayout>
+
+</ScrollView>

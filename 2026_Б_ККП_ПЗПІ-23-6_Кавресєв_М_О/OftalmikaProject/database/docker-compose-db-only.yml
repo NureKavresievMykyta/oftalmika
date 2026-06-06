@@ -1,0 +1,17 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: ophthalmica_postgres
+    restart: always
+    environment:
+      POSTGRES_DB: ophthalmica_db
+      POSTGRES_USER: ophthalmica_user
+      POSTGRES_PASSWORD: ophthalmica_password
+    ports:
+      - "55432:5432"
+    volumes:
+      - ophthalmica_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+
+volumes:
+  ophthalmica_data:

@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OptiViewProject\\web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\OptiViewProject\\web\\src\\pages\\DoctorConductVisitPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\DoctorConductVisitPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\OptiViewProject\\web\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\OptiViewProject\\web\\src\\pages\\DoctorRegisterPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\DoctorRegisterPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\OptiViewProject\\web\\src\\pages\\AdminDashboardPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\AdminDashboardPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\OptiViewProject\\web\\src\\pages\\DoctorDashboardPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\DoctorDashboardPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\OptiViewProject\\web\\src\\pages\\DoctorStatsPanel.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\DoctorStatsPanel.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\OptiViewProject\\web\\src\\pages\\LoginPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\LoginPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\OptiViewProject\\web\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\OptiViewProject\\web\\src\\pages\\DoctorCompletedVisitPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\DoctorCompletedVisitPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\OptiViewProject\\web\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\OptiViewProject\\web\\src\\api\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\api\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\OptiViewProject\\web\\src\\components\\DoctorStatsPanel.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\DoctorStatsPanel.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\OptiViewProject\\web\\src\\pages\\DoctorPrescriptionsPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\DoctorPrescriptionsPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\OptiViewProject\\web\\src\\pages\\DoctorMedicalRecordsPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\DoctorMedicalRecordsPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorRegisterPage.jsx",
+              "DocumentMoniker": "C:\\OptiViewProject\\web\\src\\pages\\DoctorRegisterPage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\DoctorRegisterPage.jsx",
+              "ToolTip": "C:\\OptiViewProject\\web\\src\\pages\\DoctorRegisterPage.jsx",
+              "RelativeToolTip": "src\\pages\\DoctorRegisterPage.jsx",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAqwLkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-30T00:55:46.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\OptiViewProject\\web\\src\\main.jsx",
+              "RelativeDocumentMoniker": "src\\main.jsx",
+              "ToolTip": "C:\\OptiViewProject\\web\\src\\main.jsx",
+              "RelativeToolTip": "src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-30T00:35:40.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.jsx",
+              "DocumentMoniker": "C:\\OptiViewProject\\web\\src\\pages\\LoginPage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\LoginPage.jsx",
+              "ToolTip": "C:\\OptiViewProject\\web\\src\\pages\\LoginPage.jsx",
+              "RelativeToolTip": "src\\pages\\LoginPage.jsx",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAqwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-29T23:46:51.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminDashboardPage.jsx",
+              "DocumentMoniker": "C:\\OptiViewProject\\web\\src\\pages\\AdminDashboardPage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\AdminDashboardPage.jsx",
+              "ToolTip": "C:\\OptiViewProject\\web\\src\\pages\\AdminDashboardPage.jsx",
+              "RelativeToolTip": "src\\pages\\AdminDashboardPage.jsx",
+              "ViewState": "AgIAABMCAAAAAAAAAAAqwDUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-29T23:30:40.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorStatsPanel.jsx",
+              "DocumentMoniker": "C:\\OptiViewProject\\web\\src\\pages\\DoctorStatsPanel.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\DoctorStatsPanel.jsx",
+              "ToolTip": "C:\\OptiViewProject\\web\\src\\pages\\DoctorStatsPanel.jsx",
+              "RelativeToolTip": "src\\pages\\DoctorStatsPanel.jsx",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-29T23:11:53.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\OptiViewProject\\web\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\OptiViewProject\\web\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-28T18:37:52.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\OptiViewProject\\web\\src\\styles.css",
+              "RelativeDocumentMoniker": "src\\styles.css",
+              "ToolTip": "C:\\OptiViewProject\\web\\src\\styles.css",
+              "RelativeToolTip": "src\\styles.css",
+              "ViewState": "AgIAADsHAAAAAAAAAAAIwF4HAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-28T18:21:02.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\OptiViewProject\\web\\src\\api\\api.js",
+              "RelativeDocumentMoniker": "src\\api\\api.js",
+              "ToolTip": "C:\\OptiViewProject\\web\\src\\api\\api.js",
+              "RelativeToolTip": "src\\api\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-29T21:40:41.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorDashboardPage.jsx",
+              "DocumentMoniker": "C:\\OptiViewProject\\web\\src\\pages\\DoctorDashboardPage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\DoctorDashboardPage.jsx",
+              "ToolTip": "C:\\OptiViewProject\\web\\src\\pages\\DoctorDashboardPage.jsx",
+              "RelativeToolTip": "src\\pages\\DoctorDashboardPage.jsx",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAuwAcBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-28T18:23:38.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorConductVisitPage.jsx",
+              "DocumentMoniker": "C:\\OptiViewProject\\web\\src\\pages\\DoctorConductVisitPage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\DoctorConductVisitPage.jsx",
+              "ToolTip": "C:\\OptiViewProject\\web\\src\\pages\\DoctorConductVisitPage.jsx",
+              "RelativeToolTip": "src\\pages\\DoctorConductVisitPage.jsx",
+              "ViewState": "AgIAADwBAAAAAAAAAAAuwFUBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-28T18:37:41.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorStatsPanel.jsx",
+              "DocumentMoniker": "C:\\OptiViewProject\\web\\src\\components\\DoctorStatsPanel.jsx",
+              "RelativeDocumentMoniker": "src\\components\\DoctorStatsPanel.jsx",
+              "ToolTip": "C:\\OptiViewProject\\web\\src\\components\\DoctorStatsPanel.jsx",
+              "RelativeToolTip": "src\\components\\DoctorStatsPanel.jsx",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-29T23:15:21.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorPrescriptionsPage.jsx",
+              "DocumentMoniker": "C:\\OptiViewProject\\web\\src\\pages\\DoctorPrescriptionsPage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\DoctorPrescriptionsPage.jsx",
+              "ToolTip": "C:\\OptiViewProject\\web\\src\\pages\\DoctorPrescriptionsPage.jsx",
+              "RelativeToolTip": "src\\pages\\DoctorPrescriptionsPage.jsx",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAqwLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-29T22:32:26.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorCompletedVisitPage.jsx",
+              "DocumentMoniker": "C:\\OptiViewProject\\web\\src\\pages\\DoctorCompletedVisitPage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\DoctorCompletedVisitPage.jsx",
+              "ToolTip": "C:\\OptiViewProject\\web\\src\\pages\\DoctorCompletedVisitPage.jsx",
+              "RelativeToolTip": "src\\pages\\DoctorCompletedVisitPage.jsx",
+              "ViewState": "AgIAALYAAAAAAAAAAAAqwNgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-29T21:46:02.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoctorMedicalRecordsPage.jsx",
+              "DocumentMoniker": "C:\\OptiViewProject\\web\\src\\pages\\DoctorMedicalRecordsPage.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\DoctorMedicalRecordsPage.jsx",
+              "ToolTip": "C:\\OptiViewProject\\web\\src\\pages\\DoctorMedicalRecordsPage.jsx",
+              "RelativeToolTip": "src\\pages\\DoctorMedicalRecordsPage.jsx",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAqwLAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-29T22:32:12.213Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

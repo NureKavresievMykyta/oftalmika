@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4F7FB">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Профіль пацієнта"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="#1E5AA8"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Перегляд і редагування особистих даних"
+            android:textSize="15sp"
+            android:textColor="#6B7280"
+            android:layout_marginBottom="24dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ім'я"
+            android:textColor="#374151"
+            android:textSize="14sp"
+            android:layout_marginBottom="5dp" />
+
+        <EditText
+            android:id="@+id/firstNameInput"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:hint="Введіть ім'я"
+            android:padding="14dp"
+            android:background="#FFFFFF"
+            android:inputType="textCapWords"
+            android:layout_marginBottom="14dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Прізвище"
+            android:textColor="#374151"
+            android:textSize="14sp"
+            android:layout_marginBottom="5dp" />
+
+        <EditText
+            android:id="@+id/lastNameInput"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:hint="Введіть прізвище"
+            android:padding="14dp"
+            android:background="#FFFFFF"
+            android:inputType="textCapWords"
+            android:layout_marginBottom="14dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Дата народження"
+            android:textColor="#374151"
+            android:textSize="14sp"
+            android:layout_marginBottom="5dp" />
+
+        <EditText
+            android:id="@+id/birthDateInput"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:hint="Оберіть дату народження"
+            android:padding="14dp"
+            android:background="#FFFFFF"
+            android:focusable="false"
+            android:clickable="true"
+            android:layout_marginBottom="14dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Телефон"
+            android:textColor="#374151"
+            android:textSize="14sp"
+            android:layout_marginBottom="5dp" />
+
+        <EditText
+            android:id="@+id/phoneInput"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:hint="Введіть номер телефону"
+            android:padding="14dp"
+            android:background="#FFFFFF"
+            android:inputType="phone"
+            android:layout_marginBottom="14dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Email"
+            android:textColor="#374151"
+            android:textSize="14sp"
+            android:layout_marginBottom="5dp" />
+
+        <EditText
+            android:id="@+id/emailInput"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:hint="Введіть email"
+            android:padding="14dp"
+            android:background="#FFFFFF"
+            android:inputType="textEmailAddress"
+            android:layout_marginBottom="14dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Адреса"
+            android:textColor="#374151"
+            android:textSize="14sp"
+            android:layout_marginBottom="5dp" />
+
+        <EditText
+            android:id="@+id/addressInput"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:hint="Введіть адресу"
+            android:padding="14dp"
+            android:background="#FFFFFF"
+            android:inputType="textPostalAddress"
+            android:layout_marginBottom="22dp" />
+
+        <Button
+            android:id="@+id/saveProfileButton"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:text="Зберегти зміни"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#1E5AA8"
+            android:layout_marginBottom="12dp" />
+
+        <Button
+            android:id="@+id/backButton"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:text="Назад"
+            android:textColor="#1E5AA8"
+            android:backgroundTint="#E5EEF9" />
+
+    </LinearLayout>
+
+</ScrollView>

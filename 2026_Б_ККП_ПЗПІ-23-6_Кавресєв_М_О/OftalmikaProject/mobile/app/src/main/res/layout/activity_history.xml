@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F4F7FB">
+
+    <LinearLayout
+        android:id="@+id/historyContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Історія обстежень"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="#1E5AA8"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ваші попередні та заплановані візити"
+            android:textSize="15sp"
+            android:textColor="#6B7280"
+            android:layout_marginBottom="22dp" />
+
+        <TextView
+            android:id="@+id/emptyHistoryText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="16sp"
+            android:textColor="#6B7280"
+            android:layout_marginBottom="20dp" />
+
+        <Button
+            android:id="@+id/backButton"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:text="Назад"
+            android:textColor="#1E5AA8"
+            android:backgroundTint="#E5EEF9"
+            android:layout_marginTop="10dp" />
+
+    </LinearLayout>
+
+</ScrollView>
